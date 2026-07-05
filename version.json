@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
-  "url": "https://github.com/Gunqeq/cookiebot/releases/download/v1.2/CookieBot.exe",
-  "note": "เอาฟีเจอร์ปุ่มที่เพิ่มเองออก เหลือแต่ระบบฟาร์มอัตโนมัติ"
+  "version": "1.3",
+  "url": "https://github.com/Gunqeq/cookiebot/releases/download/v1.3/CookieBot.exe",
+  "note": "เพิ่ม: พักอัตโนมัติกันแบน · หน้าสถิติ (รอบวันนี้/รวม/เวลารัน) · ระบบระงับคีย์จากระยะไกล"
 }
