@@ -1,5 +1,5 @@
 {
-  "version": "1.3",
-  "url": "https://github.com/Gunqeq/cookiebot/releases/download/v1.3/CookieBot.exe",
-  "note": "เพิ่ม: พักอัตโนมัติกันแบน · หน้าสถิติ (รอบวันนี้/รวม/เวลารัน) · ระบบระงับคีย์จากระยะไกล"
+  "version": "1.4",
+  "url": "https://github.com/Gunqeq/cookiebot/releases/download/v1.4/CookieBot.exe",
+  "note": "ปุ่มกระโดดสุ่มตำแหน่งกว้างขึ้น (ดูเป็นคน กันแบน) + log โชว์พิกัดจริง"
 }
