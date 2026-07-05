@@ -1,5 +1,5 @@
 {
-  "version": "1.4",
-  "url": "https://github.com/Gunqeq/cookiebot/releases/download/v1.4/CookieBot.exe",
-  "note": "ปุ่มกระโดดสุ่มตำแหน่งกว้างขึ้น (ดูเป็นคน กันแบน) + log โชว์พิกัดจริง"
+  "version": "1.5",
+  "url": "https://github.com/Gunqeq/cookiebot/releases/download/v1.5/CookieBot.exe",
+  "note": "ระงับคีย์แล้วเด้งออกเร็ว (1-2 นาที) + แก้บั๊กอัปเดต (python DLL error)"
 }
