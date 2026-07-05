@@ -1,0 +1,5 @@
+{
+  "_comment": "kill-switch: ใส่ Machine ID (XXXX-XXXX-XXXX-XXXX) ใน machines หรือ keyhash ใน keys เพื่อระงับเครื่อง/คีย์นั้น แอปเช็คตอนเปิด+รายชั่วโมง",
+  "machines": [],
+  "keys": []
+}
