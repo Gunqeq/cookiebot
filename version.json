@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
-  "url": "https://github.com/Gunqeq/cookiebot/releases/download/v1.5/CookieBot.exe",
-  "note": "ระงับคีย์แล้วเด้งออกเร็ว (1-2 นาที) + แก้บั๊กอัปเดต (python DLL error)"
+  "version": "1.6",
+  "url": "https://github.com/Gunqeq/cookiebot/releases/download/v1.6/CookieBot.exe",
+  "note": "ปรับปรุงความปลอดภัยและความเสถียรภายใน (ไม่กระทบการใช้งาน)"
 }
