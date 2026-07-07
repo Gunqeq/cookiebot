@@ -1,5 +1,5 @@
 {
-  "version": "2.2",
-  "url": "https://github.com/Gunqeq/cookiebot/releases/download/v2.2/CookieBot.exe",
-  "note": "แจ้งเตือนเข้ามือถือตอนบอทพักกันแบน/พักเสร็จ (ntfy + Discord webhook)"
+  "version": "2.3",
+  "url": "https://github.com/Gunqeq/cookiebot/releases/download/v2.3/CookieBot.exe",
+  "note": "Auto-Recovery Update — กู้อัตโนมัติตอนบอทหลุดเข้าเมนูอื่นแล้วค้าง"
 }
