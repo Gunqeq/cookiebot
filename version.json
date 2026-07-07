@@ -1,5 +1,5 @@
 {
-  "version": "1.9",
-  "url": "https://github.com/Gunqeq/cookiebot/releases/download/v1.9/CookieBot.exe",
-  "note": "แก้คีย์หมดอายุแล้วยังใช้ต่อได้ + ต่ออายุคีย์ + อัปเดตได้จากหน้าใส่คีย์"
+  "version": "2.0",
+  "url": "https://github.com/Gunqeq/cookiebot/releases/download/v2.0/CookieBot.exe",
+  "note": "ลด CAPTCHA: แตะเหมือนคน (มีเวลากด+ขยับนิ้ว) + จังหวะแปรปรวน/ลังเล + ไมโครเบรก + เปิดกันแบนอัตโนมัติ"
 }
