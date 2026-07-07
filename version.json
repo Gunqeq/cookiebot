@@ -1,5 +1,5 @@
 {
-  "version": "2.1",
-  "url": "https://github.com/Gunqeq/cookiebot/releases/download/v2.1/CookieBot.exe",
-  "note": "ปุ่มทดสอบ/หาพอร์ต ADB อัตโนมัติ + แจ้งเตือน+นับถอยหลังตอนพักกันแบน"
+  "version": "2.2",
+  "url": "https://github.com/Gunqeq/cookiebot/releases/download/v2.2/CookieBot.exe",
+  "note": "แจ้งเตือนเข้ามือถือตอนบอทพักกันแบน/พักเสร็จ (ntfy + Discord webhook)"
 }
